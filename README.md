@@ -6,7 +6,7 @@
 ### Overview
 * * *
 In this repository a data exploratory analysis is carried out on the Nutrition Facts of McDonald's Menu. The data set is provided by Kaggle.com.   
-    ✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Nutrition-Facts-for-McDonalds-Menu/blob/main/Data_Exploratory_Analysis_Using_Python_and_SQL.ipynb)
+    ✓ Link to the notebook: [Link](https://github.com/Farhad-Davaripour/Nutrition-Facts-for-McDonalds-Menu/blob/main/Data_Exploratory_Analysis_Using_Python_and_SQL.ipynb)  
     ✓ Link to the dataset: [Link](https://www.kaggle.com/mcdonalds/nutrition-facts)  
 
 ## About The Author
